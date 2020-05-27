@@ -1,16 +1,12 @@
 # main links
 main:
-  - title: "/home"
+  - title: "home"
     url: https://m-sameer.github.io/
-#  - title: "CTF Checklist 🚩"
-#    url: /checklist/
-  - title: "/شاعری"
+  - title: "شاعری"
     url: /poetry/
-  #- title: "/archives"
-  #  url: /archives/
-  - title: "/categories"
+  - title: "categories"
     url: /categories/
-  - title: "/tags"
+  - title: "tags"
     url: /tags/
-  - title: "/about"
+  - title: "about"
     url: /about/
