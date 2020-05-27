@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-28T02:02:47+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">/sharar</title><subtitle>Into programming, literature, philosophy, psychology, linguistics, and religion</subtitle><author><name>Mohammad Sameer</name><email>mhdsmr2@gmail.com</email></author><entry><title type="html">git init</title><link href="http://localhost:4000/init/" rel="alternate" type="text/html" title="git init" /><published>2020-05-14T00:00:00+05:30</published><updated>2020-05-14T00:00:00+05:30</updated><id>http://localhost:4000/init</id><content type="html" xml:base="http://localhost:4000/init/">&lt;p&gt;First post to setup my blogging website.&lt;/p&gt;</content><author><name>Mohammad Sameer</name><email>mhdsmr2@gmail.com</email></author><summary type="html">First post to setup my blogging website.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-28T03:38:36+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">/sharar</title><subtitle>Into programming, literature, philosophy, psychology, linguistics, and religion</subtitle><author><name>Mohammad Sameer</name><email>mhdsmr2@gmail.com</email></author><entry><title type="html">wo jahaa’n sharaabei’n piyaa karei’n</title><link href="http://localhost:4000/ghazal1/" rel="alternate" type="text/html" title="wo jahaa'n sharaabei'n piyaa karei'n" /><published>2020-05-28T00:00:00+05:30</published><updated>2020-05-28T00:00:00+05:30</updated><id>http://localhost:4000/ghazal1</id><content type="html" xml:base="http://localhost:4000/ghazal1/">&lt;style&gt;
+@import url(http://fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
+*[lang=ur] {
+	direction: rtl;
+	font-family: 'Noto Nastaliq Urdu Draft', serif;
+}
+table {
+	margin: auto;
+	text-align: center;
+	font-size: 160%
+}
+.poetrySingleColumnJustifyCSS3 td {
+	text-align: justify;
+}
+.poetrySingleColumnJustifyCSS3 td::after{
+	content: &quot;&quot;;
+	display: inline-block;
+	width: 100%;
+}
+&lt;/style&gt;
+
+&lt;table lang=&quot;ur&quot; class=&quot;poetrySingleColumnJustifyCSS3&quot;&gt;
+&lt;tr&gt;&lt;td&gt;وہ جہاں شرابیں پیا کریں، وہ ہی دورِ قہرِ نظر گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;رہے جس ہی راہ میں مبتلا، وہ ہی بابِ راہِ سفر گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;کبھی یاں ہمیں تھے نِرے گلے، کبھی وہ ہی شکوے سے تر گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;کبھی دونوں جو ہوئے راضی سے، تو وہ عشق ہی تھا گزر گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;مجھے شوق تھا کئی چیز کا، کئی چیز کو مرا شوق تھا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ترے واسطے وہ شغف گئے، ترے واسطے وہ ہنر گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;یہ وہ آرزو، یہ وہ آشیاں، تجھے چھوٹ دی، تو تباہ کر&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;تجھے کرنا ہے جو وہ کرلے جا، مرے دل سے خوفِ سفر گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;اِنھیں بھول اب تو نہ دن بہ دن، جو ملیں ہیں ذلّتیں دن بہ دن&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;وہ قمر ہی کیا جو کہے کہ اب یاں سے داغِ دل وہ کدھر گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;تمہیں اب وفا کی قسم صنم، کرو پھر یہ گیسو اُسی طرح&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;کہ یہ زلفیں پھر ہوں سپاہ سی، یہ اِدھر رہا، وہ اُدھر گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;مری خواہشوں کی خرابیاں، اِنھیں پھینک دوں میں نکال کر&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;کبھی وصل ہے کوئی  آرزو، کبھی آئے وہ تو جگر گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;میں نے کہہ دیا تھا اُسی ہی پل، تو یوں اور جا نہ اے باغباں&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ارے دل وہ گل نہیں میخ ہے، تو اُدھر رہے گا اگر گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ترے اِن لبوں کے یہ صدقے ہیں، تری ٹھوکروں سے ملے ہنر&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;ترے کوچے کے جو یہ مجنوں تھے، یہ سدھر گیا، وہ سنور گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;مرے ہم نفس، مرے ہم نشیں، تو ہے سروری، تو ہے آفریں&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;تو خراب ہو نہ کبھی اے جاں، اِسی فکر میں ہی میں مر گیا&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;یہ شؔرر کو ہی نہیں جانتے، وہ بڑے مزے کا ہے آدمی&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;تمہیں سے خطا ہوئی ہو گی تب! کبھی روٹھہ ہم سے شؔرر گیا؟&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</content><author><name>Mohammad Sameer</name><email>mhdsmr2@gmail.com</email></author><summary type="html"></summary></entry></feed>
