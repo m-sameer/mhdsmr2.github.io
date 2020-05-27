@@ -17,7 +17,7 @@ locale                   : "en-US"
 title                    : "/sharar"
 title_separator          : "-"
 name                     : "Mohammad Sameer"
-description              : "In to programming, literature, philosophy, psychology and religion"
+description              : "Into programming, literature, philosophy, psychology, linguistics, and religion"
 url                      : sharar.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Mohammad Sameer"
   avatar           : /assets/images/avatar.png
-  bio              : "In to programming, literature, philosophy, psychology and religion"
+  bio              : "Into programming, literature, philosophy, psychology, linguistics, and religion"
   location         : "New Delhi, IN"
   email            : mhdsmr2@gmail.com
   links:
